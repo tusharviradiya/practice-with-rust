@@ -1,1 +1,1 @@
-# practice-with-rust
+# practice of rust topics
