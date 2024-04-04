@@ -1,2 +1,4 @@
 a1_variables/target/*
 a1_variables/Cargo.lock
+a2_data_type/target
+a2_data_type/Cargo.lock
