@@ -6,3 +6,5 @@ a3_functions/target
 a3_functions/Cargo.lock
 a4_ownership_borrowing/target
 a4_ownership_borrowing/Cargo.lock
+a5_compound_type/target
+a5_compound_type/Cargo.lock
