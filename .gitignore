@@ -8,3 +8,5 @@ a4_ownership_borrowing/target
 a4_ownership_borrowing/Cargo.lock
 a5_compound_type/target
 a5_compound_type/Cargo.lock
+a6_pattern_matching/target
+a6_pattern_matching/Cargo.lock
