@@ -28,12 +28,24 @@
 // }
 
 //destructuring
-fn main() {
-    let (x, y);
-    (x,..) = (3, 4);
-    [.., y] = [1, 2];
-    // Fill the blank to make the code work
-    assert_eq!([x,y], [3,2]);
+// fn main() {
+//     let (x, y);
+//     (x,..) = (3, 4);
+//     [.., y] = [1, 2];
+//     // Fill the blank to make the code work
+//     assert_eq!([x,y], [3,2]);
 
-    println!("Success!");
+//     println!("Success!");
+// }
+
+fn main(){
+    struct Point {
+        x: i32,
+        y: i32,
+    }
+    
+    let point = Point { x: 5, y: 10 };
+    let Point { x, y } = point; // Destructure Point struct
+    
+    println!("x: {}, y: {}", x, y);
 }

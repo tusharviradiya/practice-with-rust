@@ -10,3 +10,7 @@ a5_compound_type/target
 a5_compound_type/Cargo.lock
 a6_pattern_matching/target
 a6_pattern_matching/Cargo.lock
+a7_methods_functions/target
+a7_methods_functions/Cargo.lock
+a8_generics_traits/target
+a8_generics_traits/Cargo.lock
