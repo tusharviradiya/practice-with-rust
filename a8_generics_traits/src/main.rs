@@ -50,7 +50,6 @@ impl Summery for Tweet{
     fn summary(&self) -> String{
         format!("{}: {}", self.username, self.content)
     }
-    
 }
 
 fn main() {
