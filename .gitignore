@@ -16,3 +16,5 @@ a8_generics_traits/target
 a8_generics_traits/Cargo.lock
 a9_collective_type/Cargo.lock
 a9_collective_type/target
+a10_panic_result/target
+a10_panic_result/Cargo.lock
