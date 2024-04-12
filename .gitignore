@@ -18,3 +18,5 @@ a9_collective_type/Cargo.lock
 a9_collective_type/target
 a10_panic_result/target
 a10_panic_result/Cargo.lock
+a11_lifetime/target
+a11_lifetime/Cargo.lock
