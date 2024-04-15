@@ -20,3 +20,5 @@ a10_panic_result/target
 a10_panic_result/Cargo.lock
 a11_lifetime/target
 a11_lifetime/Cargo.lock
+a12_smart_pointer/target
+a12_smart_pointer/Cargo.lock
